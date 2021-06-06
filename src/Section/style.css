@@ -1,0 +1,29 @@
+.section {
+    margin: 10px 0;
+    background: white;
+    box-shadow: 0 0 5px #ddd;
+}
+
+.section__body {
+    padding: 20px;
+}
+
+.section__header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 20px;
+    font-size: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+@media(max-width: 767px) {
+    .section__header {
+        flex-direction: column;
+    }
+    .section__header--span {
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+    }
+}

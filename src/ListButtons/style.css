@@ -1,0 +1,26 @@
+.taskList__optionButton {
+    font-size: medium;
+    border: none;
+    color: teal;
+    background: white;
+    cursor: pointer;
+}
+
+@media(max-width: 767px) {
+    .taskList__optionButton {
+        padding: 10px;
+    }
+}
+
+.taskList__optionButton:hover {
+    color: hsl(180, 100%, 35%);
+}
+
+.taskList__item--hidden {
+    display: none;
+}
+
+.taskList__optionButton--disabled:disabled {
+    color: #ddd;
+    cursor:default;
+}
