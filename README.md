@@ -33,7 +33,7 @@ That's it enjoy :)
 
 ## Animation from working app
 
- ![howToUse](%PUBLIC_URL%/howToUse.gif)
+ ![howToUse](%PUBLIC_URL%/../howToUse.gif)
 
 ## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
