@@ -1,7 +1,5 @@
 # To do list by Marcin Pankiewicz
 
-
-![howToUse](images/logo.png)
 ## _Created for the course with [YouCode](https://youcode.pl)_
 ## _You can see how to do list works_  👀[here](https://marcin-pankiewicz.github.io/todos-list-react/)👀
 
@@ -35,7 +33,7 @@ That's it enjoy :)
 
 ## Animation from working app
 
- ![howToUse](images/howToUse.gif)
+ ![howToUse](%PUBLIC_URL%/howToUse.gif)
 
 ## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
