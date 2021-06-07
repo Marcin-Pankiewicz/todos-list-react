@@ -3,7 +3,7 @@
 
 ![howToUse](images/logo.png)
 ## _Created for the course with [YouCode](https://youcode.pl)_
-## _You can see how to do list works_  👀[here](https://marcin-pankiewicz.github.io/task-list/)👀
+## _You can see how to do list works_  👀[here](https://marcin-pankiewicz.github.io/todos-list-react/)👀
 
 ## About app :
 It is an ordinary to do list with some simple option like : 
