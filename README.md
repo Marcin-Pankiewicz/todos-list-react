@@ -1,5 +1,7 @@
 # To do list by Marcin Pankiewicz
 
+ ![howToUse](src/images/toDoLogo.png)
+
 ## _Created for the course with [YouCode](https://youcode.pl)_
 ## _You can see how to do list works_  👀[here](https://marcin-pankiewicz.github.io/todos-list-react/)👀
 
