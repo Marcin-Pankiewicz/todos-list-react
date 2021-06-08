@@ -14,6 +14,6 @@ const ListButtons = ({ tasks, hideDoneTasks }) => (
         </button>
         </div>
     )
-);;
+)
 
 export default ListButtons;
