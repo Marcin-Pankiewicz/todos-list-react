@@ -1,3 +1,17 @@
+.taskList_optionButtons {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+@media(max-width: 767px) {
+    .taskList__optionButtons {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+    }
+}
+
 .taskList__optionButton {
     font-size: medium;
     border: none;
@@ -22,5 +36,5 @@
 
 .taskList__optionButton--disabled:disabled {
     color: #ddd;
-    cursor:default;
+    cursor: default;
 }
